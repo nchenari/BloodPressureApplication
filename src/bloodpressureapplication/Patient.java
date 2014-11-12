@@ -10,7 +10,6 @@ package bloodpressureapplication;
  * @author nimachenari
  */
 // Patient.java
-// Represents a Patient in the PatientDatabase
 
 public class Patient 
 {
